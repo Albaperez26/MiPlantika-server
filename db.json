@@ -28,6 +28,7 @@
             "generos": "100"
         }
     ],
+
     "plants": [
         {
             "id": "11",
@@ -86,23 +87,167 @@
 
         {
             "id": "16",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "imagen":,
-            "specieId": string id 
+            "nombre": "Lonicera japonica",
+            "localizacion": "Asia oriental",
+            "colorDeMiPlanta": "Blanco",
+            "características": "Trepadora vigorosa, flores fragantes, hojas perennes en climas templados.",
+            "comentarios": "Muy apreciada por su perfume dulce, pero puede ser invasiva si no se controla.", 
+            "imagen":"https://www.picturethisai.com/wiki-image/1080/154118158360248322.jpeg",
+            "specieId": "2"
         },
 
         {
             "id": "17",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre": "Weigela florida",
+            "localizacion": "Asia oriental",
+            "colorDeMiPlanta": "Rosa",
+            "características": "Arbusto de floración primaveral, resistente, ideal para jardines ornamentales",
+            "comentarios": "Sus flores en forma de campana atraen mariposas y colibríes.", 
+            "imagen":"https://media.plantamus.com/product/weigela-florida-victoria-veigela-800x800.jpg?width=1200",
+            "specieId": "2" 
+        },
+
+        {
+            "id": "18",
+            "nombre": "Sambucus nigra",
+            "localizacion": "Europa, Asia occidental, norte de África",
+            "colorDeMiPlanta": "Blanco",
+            "características": "Arbusto caducifolio con flores aromáticas y frutos comestibles.",
+            "comentarios": "Las flores se usan para infusiones y los frutos para jarabes y mermeladas.", 
+            "imagen": "https://www.arbolapp.es/imagenes/especies/especie_082_03.jpg",
+            "specieId": "2" 
+        },
+
+        {
+            "id": "19",
+            "nombre": "Viburnum opulus",
+            "localizacion": "Europa, Asia y norte de África",
+            "colorDeMiPlanta": "Blanco",
+            "características": "Arbusto de floración abundante, hojas caducas, bayas rojas en otoño.",
+            "comentarios": "Muy decorativa, sus flores esféricas parecen bolas de nieve.", 
+            "imagen": "https://res.cloudinary.com/fronda/image/upload/f_auto%2Cq_auto/productos/fol/11034/11034983_1.jpg?26-12-2024",
+            "specieId": "2" 
+        },
+
+        {
+            "id": "20",
+            "nombre": " Lonicera periclymenum",
+            "localizacion": "Europa",
+            "colorDeMiPlanta": "Rosado",
+            "características": "Enredadera aromática, flores tubulares, muy atractiva para polinizadores.",
+            "comentarios": "Ideal para pérgolas y celosías, muy romántica en floración nocturna.", 
+            "imagen": "https://www.florespana.es//Files/10/230000/230039/ProductPhotos/620/2050649820.jpg",
+            "specieId": "2" 
+        },
+
+        {
+            "id": "21",
+            "nombre": "Jasminum polyanthum",
+            "localizacion": "China y el sudeste asiático",
+            "colorDeMiPlanta": "Blanco",
+            "características": "Trepadora perenne, flores muy fragantes, florece a finales del invierno.",
+            "comentarios": " Destaca por su floración temprana.", 
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg/1200px-%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg",
+            "specieId": "3" 
+        },
+
+        {
+            "id": "22",
+            "nombre": "Syringa vulgaris",
+            "localizacion": "Europa oriental y Asia occidental.",
+            "colorDeMiPlanta": "Violeta",
+            "características": "Arbusto caducifolio, flores en panículas aromáticas.",
+            "comentarios": "Clásico en jardines de clima templado, su aroma es muy nostálgico.", 
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vulgaris1b.UME.jpg",
+            "specieId": "3" 
+        },
+
+        {
+            "id": "23",
+            "nombre": "Ligustrum vulgare",
+            "localizacion": "Europa, norte de África y Asia occidental.",
+            "colorDeMiPlanta": "Blanco",
+            "características": "Arbusto semiperenne, flores pequeñas y perfumadas, muy usado en setos.",
+            "comentarios": "Requiere poda regular, forma barreras densas y atractivas.", 
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ligustrum_japonicum_04.jpg",
+            "specieId": "3" 
+        },
+
+        {
+            "id": "24",
+            "nombre": "Olea europaea",
+            "localizacion": "Región mediterránea, Asia occidental.",
+            "colorDeMiPlanta": "Verde grisáceo.",
+            "características": " Árbol perenne, resistente a la sequía, fruto comestible (aceituna)",
+            "comentarios": "Muy valorado por su simbolismo, longevidad y uso en gastronomía.", 
+            "imagen": "https://www.arbolapp.es/imagenes/especies/especie_043_01.jpg",
+            "specieId": "3" 
+        },
+
+        {
+            "id": "25",
+            "nombre": "Syringa meyeri 'Palibin'",
+            "localizacion": "China y Corea.",
+            "colorDeMiPlanta": "Lila rosado",
+            "características": "Arbusto compacto y caducifolio, flores muy fragantes en racimos densos.",
+            "comentarios": "Ideal para jardines pequeños o en maceta. Resistente y de bajo mantenimiento.", 
+            "imagen": "https://apps.rhs.org.uk/plantselectorimages/detail/phbe04687.jpg",
+            "specieId": "3" 
+        },
+
+        {
+            "id": "26",
+            "nombre": "Euonymus alatus",
+            "localizacion": "China, Corea, Japón",
+            "colorDeMiPlanta": "Verde en verano, rojo brillante en otoño",
+            "características": "Arbusto caducifolio, ramas con alas corchosas, color otoñal espectacular.",
+            "comentarios": "Muy colorido para tu jardín", 
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Euonymous_alatus.jpg",
+            "specieId": "4" 
+        },
+
+        {
+            "id": "27",
+            "nombre": "Maytenus boaria",
+            "localizacion": "Chile y Argentina.",
+            "colorDeMiPlanta": "Verde",
+            "características": "Árbol perenne de follaje elegante y colgante, muy resistente a la sequía.",
+            "comentarios": "Forma grácil y su adaptabilidad.", 
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuovVPZipqML8ViI_3AeegbJLxqjaDQm8EKA&s",
+            "specieId": "4" 
+        },
+
+        {
+            "id": "28",
+            "nombre": "Celastrus orbiculatus",
+            "localizacion": "Asia oriental",
+            "colorDeMiPlanta": " Amarillo",
+            "características": "Enredadera vigorosa de crecimiento rápido, frutos muy decorativos.",
+            "comentarios": "Usar con precaución, puede ser considerada invasora en algunas situaciones", 
+            "imagen": "https://www.treesandshrubsonline.org/site/assets/files/4723/celastrus-orbiculatus-2.jpg",
+            "specieId": "4" 
+        },
+
+        {
+            "id": "29",
+            "nombre": "Euonymus atropurpureus",
+            "localizacion": "Norteamérica",
+            "colorDeMiPlanta": "Púrpura",
+            "características": "Árbol pequeño con frutos y hojas vistosas en otoño",
+            "comentarios": "Aspecto otoñal y resiste muy bien en zonas frías.", 
+            "imagen": "https://www.picturethisai.com/wiki-image/1080/154080908108890120.png",
+            "specieId": "4" 
+        },
+
+        {
+            "id": "30",
+            "nombre": "Salacia chinensis",
+            "localizacion": "Asia tropical",
+            "colorDeMiPlanta": "Amarillo verdoso.",
+            "características": "Trepadora perenne con flores discretas pero atractivas para polinizadores.",
+            "comentarios": "Se usa también en medicina tradicional.", 
+            "imagen": "https://apps.lucidcentral.org/rainforest/images/entities/salacia_chinensis/1783037.jpg",
+            "specieId": "4" 
         }
     
     ]
