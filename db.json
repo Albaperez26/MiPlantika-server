@@ -1,0 +1,103 @@
+{
+    "species": [
+        {
+            "id": "1",
+            "nombre": "ASTERACEAE-COMPOSITAE",
+            "numeroDeEspecies": 25000,
+            "generos": 1700
+        },
+        
+        {
+            "id": "2",
+            "nombre": "CAPRIFOLIACEAE",
+            "numeroDeEspecies": 400,
+            "generos": 10
+        },
+
+        {
+            "id": "3",
+            "nombre": "OLEACEAE",
+            "numeroDeEspecies": 600,
+            "generos": 30
+        },
+
+        {
+            "id": "4",
+            "nombre": "CELASTRACEAE",
+            "numeroDeEspecies": 1350,
+            "generos": "100"
+        }
+    ],
+    "plants": [
+        {
+            "id": "11",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "12",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "13",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "14",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "15",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "16",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        },
+
+        {
+            "id": "17",
+            "nombre": string,
+            "localizacion": string,
+            "colorDeMiPlanta": string,
+            "características": string,
+            "comentarios": string, 
+            "specieId": string id 
+        }
+    
+    ]
+}
