@@ -31,52 +31,57 @@
     "plants": [
         {
             "id": "11",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre":"Gerbera jamesonii",
+            "localizacion": " Sudáfrica",
+            "colorDeMiPlanta": "rosa",
+            "características": "Planta herbácea perenne con grandes capítulos florales similares a margaritas, muy ornamentales.",
+            "comentarios": " Muy popular en arreglos florales; necesita sol y suelo bien drenado.", 
+            "imagen": "https://www.interflora.es/blog/wp-content/uploads/shutterstock_1164332632.jpg",
+            "specieId": "1" 
         },
 
         {
             "id": "12",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre": "Bellis perennis",
+            "localizacion": "Europa y Asia occidental",
+            "colorDeMiPlanta": "Rosa con centro amarillo",
+            "características": "Pequeña planta perenne, común en prados",
+            "comentarios": "Ideal para césped o macetas. Muy resistente.", 
+            "imagen":"https://www.totenu.com/wp-content/uploads/bellis-perennis-totenu-1-1080x675.jpg",
+            "specieId": "1"
         },
 
         {
             "id": "13",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre": "Echinacea purpurea",
+            "localizacion": "América del Norte",
+            "colorDeMiPlanta": "Púrpura con centro anaranjado",
+            "características": "Planta robusta y medicinal con flores grandes y vistosas.",
+            "comentarios": "Atrae mariposas y abejas. Muy valorada por su efecto inmunológico.", 
+            "imagen": "https://www.allendanseed.com/media/products/Purple_Cone_5B82226F15BB1.jpg?dimensions=375x500&format=webp",
+            "specieId": "1"
         },
 
         {
             "id": "14",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre": "Tagetes erecta",
+            "localizacion": "México y América Central",
+            "colorDeMiPlanta": "Amarillo",
+            "características": "Planta de flores densas y aromáticas.",
+            "comentarios": "Emblemática del Día de Muertos en México. Repele insectos.", 
+            "imagen":"https://mullerseeds.es/app/uploads/2021/04/tagetes_erecta_incaii_yellow.jpg",
+            "specieId": "1" 
         },
 
         {
             "id": "15",
-            "nombre": string,
-            "localizacion": string,
-            "colorDeMiPlanta": string,
-            "características": string,
-            "comentarios": string, 
-            "specieId": string id 
+            "nombre": "Rudbeckia hirta",
+            "localizacion": "América del Norte",
+            "colorDeMiPlanta": "Amarillo con centro oscuro",
+            "características": "Planta herbácea con flores grandes y vistosas que florecen desde mediados del verano hasta el otoño.",
+            "comentarios": "Fácil de cultivar. Ideal para jardines de flores silvestres.", 
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFij3L9KbfL5XtL-xtzqeL2Id4OL_QF-T3BA&s",
+            "specieId": "1" 
         },
 
         {
@@ -86,6 +91,7 @@
             "colorDeMiPlanta": string,
             "características": string,
             "comentarios": string, 
+            "imagen":,
             "specieId": string id 
         },
 
