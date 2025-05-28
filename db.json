@@ -3,6 +3,7 @@
         {
             "id": "1",
             "nombre": "ASTERACEAE-COMPOSITAE",
+            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
             "numeroDeEspecies": 25000,
             "generos": 1700
         },
@@ -10,6 +11,7 @@
         {
             "id": "2",
             "nombre": "CAPRIFOLIACEAE",
+            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
             "numeroDeEspecies": 400,
             "generos": 10
         },
@@ -17,6 +19,7 @@
         {
             "id": "3",
             "nombre": "OLEACEAE",
+            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
             "numeroDeEspecies": 600,
             "generos": 30
         },
@@ -24,6 +27,7 @@
         {
             "id": "4",
             "nombre": "CELASTRACEAE",
+            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
             "numeroDeEspecies": 1350,
             "generos": "100"
         }
@@ -38,7 +42,7 @@
             "características": "Planta herbácea perenne con grandes capítulos florales similares a margaritas, muy ornamentales.",
             "comentarios": " Muy popular en arreglos florales; necesita sol y suelo bien drenado.", 
             "imagen": "https://www.interflora.es/blog/wp-content/uploads/shutterstock_1164332632.jpg",
-            "specieId": "1" 
+            "speciesId": "1" 
         },
 
         {
@@ -49,7 +53,7 @@
             "características": "Pequeña planta perenne, común en prados",
             "comentarios": "Ideal para césped o macetas. Muy resistente.", 
             "imagen":"https://www.totenu.com/wp-content/uploads/bellis-perennis-totenu-1-1080x675.jpg",
-            "specieId": "1"
+            "speciesId": "1"
         },
 
         {
@@ -60,7 +64,7 @@
             "características": "Planta robusta y medicinal con flores grandes y vistosas.",
             "comentarios": "Atrae mariposas y abejas. Muy valorada por su efecto inmunológico.", 
             "imagen": "https://www.allendanseed.com/media/products/Purple_Cone_5B82226F15BB1.jpg?dimensions=375x500&format=webp",
-            "specieId": "1"
+            "speciesId": "1"
         },
 
         {
@@ -71,7 +75,7 @@
             "características": "Planta de flores densas y aromáticas.",
             "comentarios": "Emblemática del Día de Muertos en México. Repele insectos.", 
             "imagen":"https://mullerseeds.es/app/uploads/2021/04/tagetes_erecta_incaii_yellow.jpg",
-            "specieId": "1" 
+            "speciesId": "1" 
         },
 
         {
@@ -82,7 +86,7 @@
             "características": "Planta herbácea con flores grandes y vistosas que florecen desde mediados del verano hasta el otoño.",
             "comentarios": "Fácil de cultivar. Ideal para jardines de flores silvestres.", 
             "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFij3L9KbfL5XtL-xtzqeL2Id4OL_QF-T3BA&s",
-            "specieId": "1" 
+            "speciesId": "1" 
         },
 
         {
@@ -93,7 +97,7 @@
             "características": "Trepadora vigorosa, flores fragantes, hojas perennes en climas templados.",
             "comentarios": "Muy apreciada por su perfume dulce, pero puede ser invasiva si no se controla.", 
             "imagen":"https://www.picturethisai.com/wiki-image/1080/154118158360248322.jpeg",
-            "specieId": "2"
+            "speciesId": "2"
         },
 
         {
@@ -104,7 +108,7 @@
             "características": "Arbusto de floración primaveral, resistente, ideal para jardines ornamentales",
             "comentarios": "Sus flores en forma de campana atraen mariposas y colibríes.", 
             "imagen":"https://media.plantamus.com/product/weigela-florida-victoria-veigela-800x800.jpg?width=1200",
-            "specieId": "2" 
+            "speciesId": "2" 
         },
 
         {
@@ -115,7 +119,7 @@
             "características": "Arbusto caducifolio con flores aromáticas y frutos comestibles.",
             "comentarios": "Las flores se usan para infusiones y los frutos para jarabes y mermeladas.", 
             "imagen": "https://www.arbolapp.es/imagenes/especies/especie_082_03.jpg",
-            "specieId": "2" 
+            "speciesId": "2" 
         },
 
         {
@@ -126,7 +130,7 @@
             "características": "Arbusto de floración abundante, hojas caducas, bayas rojas en otoño.",
             "comentarios": "Muy decorativa, sus flores esféricas parecen bolas de nieve.", 
             "imagen": "https://res.cloudinary.com/fronda/image/upload/f_auto%2Cq_auto/productos/fol/11034/11034983_1.jpg?26-12-2024",
-            "specieId": "2" 
+            "speciesId": "2" 
         },
 
         {
@@ -137,7 +141,7 @@
             "características": "Enredadera aromática, flores tubulares, muy atractiva para polinizadores.",
             "comentarios": "Ideal para pérgolas y celosías, muy romántica en floración nocturna.", 
             "imagen": "https://www.florespana.es//Files/10/230000/230039/ProductPhotos/620/2050649820.jpg",
-            "specieId": "2" 
+            "speciesId": "2" 
         },
 
         {
@@ -148,7 +152,7 @@
             "características": "Trepadora perenne, flores muy fragantes, florece a finales del invierno.",
             "comentarios": " Destaca por su floración temprana.", 
             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg/1200px-%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg",
-            "specieId": "3" 
+            "speciesId": "3" 
         },
 
         {
@@ -159,7 +163,7 @@
             "características": "Arbusto caducifolio, flores en panículas aromáticas.",
             "comentarios": "Clásico en jardines de clima templado, su aroma es muy nostálgico.", 
             "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vulgaris1b.UME.jpg",
-            "specieId": "3" 
+            "speciesId": "3" 
         },
 
         {
@@ -170,7 +174,7 @@
             "características": "Arbusto semiperenne, flores pequeñas y perfumadas, muy usado en setos.",
             "comentarios": "Requiere poda regular, forma barreras densas y atractivas.", 
             "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ligustrum_japonicum_04.jpg",
-            "specieId": "3" 
+            "speciesId": "3" 
         },
 
         {
@@ -181,7 +185,7 @@
             "características": " Árbol perenne, resistente a la sequía, fruto comestible (aceituna)",
             "comentarios": "Muy valorado por su simbolismo, longevidad y uso en gastronomía.", 
             "imagen": "https://www.arbolapp.es/imagenes/especies/especie_043_01.jpg",
-            "specieId": "3" 
+            "speciesId": "3" 
         },
 
         {
@@ -192,7 +196,7 @@
             "características": "Arbusto compacto y caducifolio, flores muy fragantes en racimos densos.",
             "comentarios": "Ideal para jardines pequeños o en maceta. Resistente y de bajo mantenimiento.", 
             "imagen": "https://apps.rhs.org.uk/plantselectorimages/detail/phbe04687.jpg",
-            "specieId": "3" 
+            "speciesId": "3" 
         },
 
         {
@@ -203,7 +207,7 @@
             "características": "Arbusto caducifolio, ramas con alas corchosas, color otoñal espectacular.",
             "comentarios": "Muy colorido para tu jardín", 
             "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Euonymous_alatus.jpg",
-            "specieId": "4" 
+            "speciesId": "4" 
         },
 
         {
@@ -214,7 +218,7 @@
             "características": "Árbol perenne de follaje elegante y colgante, muy resistente a la sequía.",
             "comentarios": "Forma grácil y su adaptabilidad.", 
             "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuovVPZipqML8ViI_3AeegbJLxqjaDQm8EKA&s",
-            "specieId": "4" 
+            "speciesId": "4" 
         },
 
         {
@@ -225,7 +229,7 @@
             "características": "Enredadera vigorosa de crecimiento rápido, frutos muy decorativos.",
             "comentarios": "Usar con precaución, puede ser considerada invasora en algunas situaciones", 
             "imagen": "https://www.treesandshrubsonline.org/site/assets/files/4723/celastrus-orbiculatus-2.jpg",
-            "specieId": "4" 
+            "speciesId": "4" 
         },
 
         {
@@ -236,7 +240,7 @@
             "características": "Árbol pequeño con frutos y hojas vistosas en otoño",
             "comentarios": "Aspecto otoñal y resiste muy bien en zonas frías.", 
             "imagen": "https://www.picturethisai.com/wiki-image/1080/154080908108890120.png",
-            "specieId": "4" 
+            "speciesId": "4" 
         },
 
         {
@@ -247,7 +251,7 @@
             "características": "Trepadora perenne con flores discretas pero atractivas para polinizadores.",
             "comentarios": "Se usa también en medicina tradicional.", 
             "imagen": "https://apps.lucidcentral.org/rainforest/images/entities/salacia_chinensis/1783037.jpg",
-            "specieId": "4" 
+            "speciesId": "4" 
         }
     
     ]
