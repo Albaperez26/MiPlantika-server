@@ -1,258 +1,434 @@
 {
-    "species": [
-        {
-            "id": "1",
-            "nombre": "ASTERACEAE-COMPOSITAE",
-            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
-            "numeroDeEspecies": 25000,
-            "generos": 1700
-        },
-        
-        {
-            "id": "2",
-            "nombre": "CAPRIFOLIACEAE",
-            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
-            "numeroDeEspecies": 400,
-            "generos": 10
-        },
-
-        {
-            "id": "3",
-            "nombre": "OLEACEAE",
-            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
-            "numeroDeEspecies": 600,
-            "generos": 30
-        },
-
-        {
-            "id": "4",
-            "nombre": "CELASTRACEAE",
-            "imagen": "https://i.pinimg.com/736x/0c/26/75/0c2675792ba5b6d0a82d38ec31397496.jpg",
-            "numeroDeEspecies": 1350,
-            "generos": "100"
-        }
-    ],
-
-    "plants": [
-        {
-            "id": "11",
-            "nombre":"Gerbera jamesonii",
-            "localizacion": " Sudáfrica",
-            "colorDeMiPlanta": "rosa",
-            "características": "Planta herbácea perenne con grandes capítulos florales similares a margaritas, muy ornamentales.",
-            "comentarios": " Muy popular en arreglos florales; necesita sol y suelo bien drenado.", 
-            "imagen": "https://www.interflora.es/blog/wp-content/uploads/shutterstock_1164332632.jpg",
-            "speciesId": "1" 
-        },
-
-        {
-            "id": "12",
-            "nombre": "Bellis perennis",
-            "localizacion": "Europa y Asia occidental",
-            "colorDeMiPlanta": "Rosa con centro amarillo",
-            "características": "Pequeña planta perenne, común en prados",
-            "comentarios": "Ideal para césped o macetas. Muy resistente.", 
-            "imagen":"https://www.totenu.com/wp-content/uploads/bellis-perennis-totenu-1-1080x675.jpg",
-            "speciesId": "1"
-        },
-
-        {
-            "id": "13",
-            "nombre": "Echinacea purpurea",
-            "localizacion": "América del Norte",
-            "colorDeMiPlanta": "Púrpura con centro anaranjado",
-            "características": "Planta robusta y medicinal con flores grandes y vistosas.",
-            "comentarios": "Atrae mariposas y abejas. Muy valorada por su efecto inmunológico.", 
-            "imagen": "https://www.allendanseed.com/media/products/Purple_Cone_5B82226F15BB1.jpg?dimensions=375x500&format=webp",
-            "speciesId": "1"
-        },
-
-        {
-            "id": "14",
-            "nombre": "Tagetes erecta",
-            "localizacion": "México y América Central",
-            "colorDeMiPlanta": "Amarillo",
-            "características": "Planta de flores densas y aromáticas.",
-            "comentarios": "Emblemática del Día de Muertos en México. Repele insectos.", 
-            "imagen":"https://mullerseeds.es/app/uploads/2021/04/tagetes_erecta_incaii_yellow.jpg",
-            "speciesId": "1" 
-        },
-
-        {
-            "id": "15",
-            "nombre": "Rudbeckia hirta",
-            "localizacion": "América del Norte",
-            "colorDeMiPlanta": "Amarillo con centro oscuro",
-            "características": "Planta herbácea con flores grandes y vistosas que florecen desde mediados del verano hasta el otoño.",
-            "comentarios": "Fácil de cultivar. Ideal para jardines de flores silvestres.", 
-            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFij3L9KbfL5XtL-xtzqeL2Id4OL_QF-T3BA&s",
-            "speciesId": "1" 
-        },
-
-        {
-            "id": "16",
-            "nombre": "Lonicera japonica",
-            "localizacion": "Asia oriental",
-            "colorDeMiPlanta": "Blanco",
-            "características": "Trepadora vigorosa, flores fragantes, hojas perennes en climas templados.",
-            "comentarios": "Muy apreciada por su perfume dulce, pero puede ser invasiva si no se controla.", 
-            "imagen":"https://www.picturethisai.com/wiki-image/1080/154118158360248322.jpeg",
-            "speciesId": "2"
-        },
-
-        {
-            "id": "17",
-            "nombre": "Weigela florida",
-            "localizacion": "Asia oriental",
-            "colorDeMiPlanta": "Rosa",
-            "características": "Arbusto de floración primaveral, resistente, ideal para jardines ornamentales",
-            "comentarios": "Sus flores en forma de campana atraen mariposas y colibríes.", 
-            "imagen":"https://media.plantamus.com/product/weigela-florida-victoria-veigela-800x800.jpg?width=1200",
-            "speciesId": "2" 
-        },
-
-        {
-            "id": "18",
-            "nombre": "Sambucus nigra",
-            "localizacion": "Europa, Asia occidental, norte de África",
-            "colorDeMiPlanta": "Blanco",
-            "características": "Arbusto caducifolio con flores aromáticas y frutos comestibles.",
-            "comentarios": "Las flores se usan para infusiones y los frutos para jarabes y mermeladas.", 
-            "imagen": "https://www.arbolapp.es/imagenes/especies/especie_082_03.jpg",
-            "speciesId": "2" 
-        },
-
-        {
-            "id": "19",
-            "nombre": "Viburnum opulus",
-            "localizacion": "Europa, Asia y norte de África",
-            "colorDeMiPlanta": "Blanco",
-            "características": "Arbusto de floración abundante, hojas caducas, bayas rojas en otoño.",
-            "comentarios": "Muy decorativa, sus flores esféricas parecen bolas de nieve.", 
-            "imagen": "https://res.cloudinary.com/fronda/image/upload/f_auto%2Cq_auto/productos/fol/11034/11034983_1.jpg?26-12-2024",
-            "speciesId": "2" 
-        },
-
-        {
-            "id": "20",
-            "nombre": " Lonicera periclymenum",
-            "localizacion": "Europa",
-            "colorDeMiPlanta": "Rosado",
-            "características": "Enredadera aromática, flores tubulares, muy atractiva para polinizadores.",
-            "comentarios": "Ideal para pérgolas y celosías, muy romántica en floración nocturna.", 
-            "imagen": "https://www.florespana.es//Files/10/230000/230039/ProductPhotos/620/2050649820.jpg",
-            "speciesId": "2" 
-        },
-
-        {
-            "id": "21",
-            "nombre": "Jasminum polyanthum",
-            "localizacion": "China y el sudeste asiático",
-            "colorDeMiPlanta": "Blanco",
-            "características": "Trepadora perenne, flores muy fragantes, florece a finales del invierno.",
-            "comentarios": " Destaca por su floración temprana.", 
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg/1200px-%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg",
-            "speciesId": "3" 
-        },
-
-        {
-            "id": "22",
-            "nombre": "Syringa vulgaris",
-            "localizacion": "Europa oriental y Asia occidental.",
-            "colorDeMiPlanta": "Violeta",
-            "características": "Arbusto caducifolio, flores en panículas aromáticas.",
-            "comentarios": "Clásico en jardines de clima templado, su aroma es muy nostálgico.", 
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vulgaris1b.UME.jpg",
-            "speciesId": "3" 
-        },
-
-        {
-            "id": "23",
-            "nombre": "Ligustrum vulgare",
-            "localizacion": "Europa, norte de África y Asia occidental.",
-            "colorDeMiPlanta": "Blanco",
-            "características": "Arbusto semiperenne, flores pequeñas y perfumadas, muy usado en setos.",
-            "comentarios": "Requiere poda regular, forma barreras densas y atractivas.", 
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ligustrum_japonicum_04.jpg",
-            "speciesId": "3" 
-        },
-
-        {
-            "id": "24",
-            "nombre": "Olea europaea",
-            "localizacion": "Región mediterránea, Asia occidental.",
-            "colorDeMiPlanta": "Verde grisáceo.",
-            "características": " Árbol perenne, resistente a la sequía, fruto comestible (aceituna)",
-            "comentarios": "Muy valorado por su simbolismo, longevidad y uso en gastronomía.", 
-            "imagen": "https://www.arbolapp.es/imagenes/especies/especie_043_01.jpg",
-            "speciesId": "3" 
-        },
-
-        {
-            "id": "25",
-            "nombre": "Syringa meyeri 'Palibin'",
-            "localizacion": "China y Corea.",
-            "colorDeMiPlanta": "Lila rosado",
-            "características": "Arbusto compacto y caducifolio, flores muy fragantes en racimos densos.",
-            "comentarios": "Ideal para jardines pequeños o en maceta. Resistente y de bajo mantenimiento.", 
-            "imagen": "https://apps.rhs.org.uk/plantselectorimages/detail/phbe04687.jpg",
-            "speciesId": "3" 
-        },
-
-        {
-            "id": "26",
-            "nombre": "Euonymus alatus",
-            "localizacion": "China, Corea, Japón",
-            "colorDeMiPlanta": "Verde en verano, rojo brillante en otoño",
-            "características": "Arbusto caducifolio, ramas con alas corchosas, color otoñal espectacular.",
-            "comentarios": "Muy colorido para tu jardín", 
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Euonymous_alatus.jpg",
-            "speciesId": "4" 
-        },
-
-        {
-            "id": "27",
-            "nombre": "Maytenus boaria",
-            "localizacion": "Chile y Argentina.",
-            "colorDeMiPlanta": "Verde",
-            "características": "Árbol perenne de follaje elegante y colgante, muy resistente a la sequía.",
-            "comentarios": "Forma grácil y su adaptabilidad.", 
-            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuovVPZipqML8ViI_3AeegbJLxqjaDQm8EKA&s",
-            "speciesId": "4" 
-        },
-
-        {
-            "id": "28",
-            "nombre": "Celastrus orbiculatus",
-            "localizacion": "Asia oriental",
-            "colorDeMiPlanta": " Amarillo",
-            "características": "Enredadera vigorosa de crecimiento rápido, frutos muy decorativos.",
-            "comentarios": "Usar con precaución, puede ser considerada invasora en algunas situaciones", 
-            "imagen": "https://www.treesandshrubsonline.org/site/assets/files/4723/celastrus-orbiculatus-2.jpg",
-            "speciesId": "4" 
-        },
-
-        {
-            "id": "29",
-            "nombre": "Euonymus atropurpureus",
-            "localizacion": "Norteamérica",
-            "colorDeMiPlanta": "Púrpura",
-            "características": "Árbol pequeño con frutos y hojas vistosas en otoño",
-            "comentarios": "Aspecto otoñal y resiste muy bien en zonas frías.", 
-            "imagen": "https://www.picturethisai.com/wiki-image/1080/154080908108890120.png",
-            "speciesId": "4" 
-        },
-
-        {
-            "id": "30",
-            "nombre": "Salacia chinensis",
-            "localizacion": "Asia tropical",
-            "colorDeMiPlanta": "Amarillo verdoso.",
-            "características": "Trepadora perenne con flores discretas pero atractivas para polinizadores.",
-            "comentarios": "Se usa también en medicina tradicional.", 
-            "imagen": "https://apps.lucidcentral.org/rainforest/images/entities/salacia_chinensis/1783037.jpg",
-            "speciesId": "4" 
-        }
-    
-    ]
+  "species": [
+    {
+      "id": "1",
+      "nombre": "ASTERACEAE-COMPOSITAE",
+      "imagen": "https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-pink-daisies-with-dark-background-wallpaper-image_2902700.jpg",
+      "numeroDeEspecies": 25000,
+      "descripcion":"La familia Asteraceae Compositae es una de las más grandes y diversas del mundo vegetal.  Es una familia cosmopolita, con gran diversidad ecológica y adaptativa. Muchas de sus especies tienen importancia alimenticia, medicinal y ornamental, como el girasol, la manzanilla y la lechuga. Su éxito se debe a su versatilidad morfológica y ecológica.",
+      "generos": 1700
+    },
+    {
+      "id": "2",
+      "nombre": "CAPRIFOLIACEAE",
+      "imagen": "https://www.shutterstock.com/image-photo/japanese-honeysuckle-lonicera-japonica-flowers-600nw-2301756877.jpg",
+      "numeroDeEspecies": 400,
+      "descripcion":"La familia Caprifoliaceae es un grupo de plantas mayormente trepadoras, propias de regiones templadas del hemisferio norte. Es una familia de plantas mayormente arbustivas y trepadoras, con flores vistosas y fragantes, frutos carnosos y distribución preferente en climas templados. Es valorada especialmente en jardinería y paisajismo.",
+      "generos": 10
+    },
+    {
+      "id": "3",
+      "nombre": "OLEACEAE",
+      "imagen": "https://thumbs.dreamstime.com/b/rama-del-olivo-con-las-hojas-y-frutas-fondo-101808155.jpg",
+      "numeroDeEspecies": 600,
+      "descripcion":"La familia Oleaceae agrupa árboles y arbustos con flores pequeñas pero a menudo aromáticas, hojas opuestas y frutos variados. Tiene gran valor en agricultura (como el olivo), en jardinería (jazmines) y en silvicultura (fresnos).",
+      "generos": 30
+    },
+    {
+      "id": "4",
+      "nombre": "CELASTRACEAE",
+      "imagen": "https://www.shutterstock.com/image-photo/red-leafs-euonymus-alatus-garden-600nw-2341571935.jpg",
+      "numeroDeEspecies": 1350,
+      "descripcion":"La familia Celastraceae agrupa plantas leñosas con flores pequeñas, frutos a menudo llamativos y una amplia distribución tropical. Tiene interés ecológico, medicinal y ornamental, aunque algunas especies son tóxicas.",
+      "generos": 100
+    }
+  ],
+  "plants": [
+    {
+      "nombre": "Gerbera jamesonii",
+      "colorDeMiPlanta": "rosa",
+      "localizacion": " Sudáfrica",
+      "características": "Planta herbácea perenne con grandes capítulos florales similares a margaritas, muy ornamentales.",
+      "comentarios": " Muy popular en arreglos florales; necesita sol y suelo bien drenado.",
+      "imagen": "https://www.interflora.es/blog/wp-content/uploads/shutterstock_1164332632.jpg",
+      "speciesId": "1",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "nombre": "Bellis perennis",
+      "localizacion": "Europa y Asia occidental",
+      "colorDeMiPlanta": "Rosa con centro amarillo",
+      "características": "Pequeña planta perenne, común en prados",
+      "comentarios": "Ideal para césped o macetas. Muy resistente.",
+      "imagen": "https://www.totenu.com/wp-content/uploads/bellis-perennis-totenu-1-1080x675.jpg",
+      "speciesId": "1"
+    },
+    {
+      "id": "13",
+      "nombre": "Echinacea purpurea",
+      "localizacion": "América del Norte",
+      "colorDeMiPlanta": "Púrpura con centro anaranjado",
+      "características": "Planta robusta y medicinal con flores grandes y vistosas.",
+      "comentarios": "Atrae mariposas y abejas. Muy valorada por su efecto inmunológico.",
+      "imagen": "https://www.allendanseed.com/media/products/Purple_Cone_5B82226F15BB1.jpg?dimensions=375x500&format=webp",
+      "speciesId": "1"
+    },
+    {
+      "id": "14",
+      "nombre": "Tagetes erecta",
+      "localizacion": "México y América Central",
+      "colorDeMiPlanta": "Amarillo",
+      "características": "Planta de flores densas y aromáticas.",
+      "comentarios": "Emblemática del Día de Muertos en México. Repele insectos.",
+      "imagen": "https://mullerseeds.es/app/uploads/2021/04/tagetes_erecta_incaii_yellow.jpg",
+      "speciesId": "1"
+    },
+    {
+      "id": "15",
+      "nombre": "Rudbeckia hirta",
+      "localizacion": "América del Norte",
+      "colorDeMiPlanta": "Amarillo con centro oscuro",
+      "características": "Planta herbácea con flores grandes y vistosas que florecen desde mediados del verano hasta el otoño.",
+      "comentarios": "Fácil de cultivar. Ideal para jardines de flores silvestres.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFij3L9KbfL5XtL-xtzqeL2Id4OL_QF-T3BA&s",
+      "speciesId": "1"
+    },
+    {
+      "id": "16",
+      "nombre": "Lonicera japonica",
+      "localizacion": "Asia oriental",
+      "colorDeMiPlanta": "Blanco",
+      "características": "Trepadora vigorosa, flores fragantes, hojas perennes en climas templados.",
+      "comentarios": "Muy apreciada por su perfume dulce, pero puede ser invasiva si no se controla.",
+      "imagen": "https://www.picturethisai.com/wiki-image/1080/154118158360248322.jpeg",
+      "speciesId": "2"
+    },
+    {
+      "id": "17",
+      "nombre": "Weigela florida",
+      "localizacion": "Asia oriental",
+      "colorDeMiPlanta": "Rosa",
+      "características": "Arbusto de floración primaveral, resistente, ideal para jardines ornamentales",
+      "comentarios": "Sus flores en forma de campana atraen mariposas y colibríes.",
+      "imagen": "https://media.plantamus.com/product/weigela-florida-victoria-veigela-800x800.jpg?width=1200",
+      "speciesId": "2"
+    },
+    {
+      "id": "18",
+      "nombre": "Sambucus nigra",
+      "localizacion": "Europa, Asia occidental, norte de África",
+      "colorDeMiPlanta": "Blanco",
+      "características": "Arbusto caducifolio con flores aromáticas y frutos comestibles.",
+      "comentarios": "Las flores se usan para infusiones y los frutos para jarabes y mermeladas.",
+      "imagen": "https://www.arbolapp.es/imagenes/especies/especie_082_03.jpg",
+      "speciesId": "2"
+    },
+    {
+      "id": "19",
+      "nombre": "Viburnum opulus",
+      "localizacion": "Europa, Asia y norte de África",
+      "colorDeMiPlanta": "Blanco",
+      "características": "Arbusto de floración abundante, hojas caducas, bayas rojas en otoño.",
+      "comentarios": "Muy decorativa, sus flores esféricas parecen bolas de nieve.",
+      "imagen": "https://res.cloudinary.com/fronda/image/upload/f_auto%2Cq_auto/productos/fol/11034/11034983_1.jpg?26-12-2024",
+      "speciesId": "2"
+    },
+    {
+      "nombre": " Lonicera periclymenum",
+      "colorDeMiPlanta": "Rosado",
+      "localizacion": "Europa",
+      "características": "Enredadera aromática, flores tubulares, muy atractiva para polinizadores.",
+      "comentarios": "Ideal para pérgolas y celosías, muy romántica en floración nocturna.",
+      "imagen": "https://www.florespana.es//Files/10/230000/230039/ProductPhotos/620/2050649820.jpg",
+      "speciesId": "2",
+      "id": "20"
+    },
+    {
+      "id": "21",
+      "nombre": "Jasminum polyanthum",
+      "localizacion": "China y el sudeste asiático",
+      "colorDeMiPlanta": "Blanco",
+      "características": "Trepadora perenne, flores muy fragantes, florece a finales del invierno.",
+      "comentarios": " Destaca por su floración temprana.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg/1200px-%28MHNT%29_Jasminum_polyanthum_%E2%80%93_flowers_and_buds.jpg",
+      "speciesId": "3"
+    },
+    {
+      "id": "22",
+      "nombre": "Syringa vulgaris",
+      "localizacion": "Europa oriental y Asia occidental.",
+      "colorDeMiPlanta": "Violeta",
+      "características": "Arbusto caducifolio, flores en panículas aromáticas.",
+      "comentarios": "Clásico en jardines de clima templado, su aroma es muy nostálgico.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vulgaris1b.UME.jpg",
+      "speciesId": "3"
+    },
+    {
+      "id": "23",
+      "nombre": "Ligustrum vulgare",
+      "localizacion": "Europa, norte de África y Asia occidental.",
+      "colorDeMiPlanta": "Blanco",
+      "características": "Arbusto semiperenne, flores pequeñas y perfumadas, muy usado en setos.",
+      "comentarios": "Requiere poda regular, forma barreras densas y atractivas.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ligustrum_japonicum_04.jpg",
+      "speciesId": "3"
+    },
+    {
+      "id": "24",
+      "nombre": "Olea europaea",
+      "localizacion": "Región mediterránea, Asia occidental.",
+      "colorDeMiPlanta": "Verde grisáceo.",
+      "características": " Árbol perenne, resistente a la sequía, fruto comestible (aceituna)",
+      "comentarios": "Muy valorado por su simbolismo, longevidad y uso en gastronomía.",
+      "imagen": "https://www.arbolapp.es/imagenes/especies/especie_043_01.jpg",
+      "speciesId": "3"
+    },
+    {
+      "id": "25",
+      "nombre": "Syringa meyeri 'Palibin'",
+      "localizacion": "China y Corea.",
+      "colorDeMiPlanta": "Lila rosado",
+      "características": "Arbusto compacto y caducifolio, flores muy fragantes en racimos densos.",
+      "comentarios": "Ideal para jardines pequeños o en maceta. Resistente y de bajo mantenimiento.",
+      "imagen": "https://apps.rhs.org.uk/plantselectorimages/detail/phbe04687.jpg",
+      "speciesId": "3"
+    },
+    {
+      "id": "26",
+      "nombre": "Euonymus alatus",
+      "localizacion": "China, Corea, Japón",
+      "colorDeMiPlanta": "Verde en verano, rojo brillante en otoño",
+      "características": "Arbusto caducifolio, ramas con alas corchosas, color otoñal espectacular.",
+      "comentarios": "Muy colorido para tu jardín",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Euonymous_alatus.jpg",
+      "speciesId": "4"
+    },
+    {
+      "id": "27",
+      "nombre": "Maytenus boaria",
+      "localizacion": "Chile y Argentina.",
+      "colorDeMiPlanta": "Verde",
+      "características": "Árbol perenne de follaje elegante y colgante, muy resistente a la sequía.",
+      "comentarios": "Forma grácil y su adaptabilidad.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuovVPZipqML8ViI_3AeegbJLxqjaDQm8EKA&s",
+      "speciesId": "4"
+    },
+    {
+      "id": "28",
+      "nombre": "Celastrus orbiculatus",
+      "localizacion": "Asia oriental",
+      "colorDeMiPlanta": " Amarillo",
+      "características": "Enredadera vigorosa de crecimiento rápido, frutos muy decorativos.",
+      "comentarios": "Usar con precaución, puede ser considerada invasora en algunas situaciones",
+      "imagen": "https://www.treesandshrubsonline.org/site/assets/files/4723/celastrus-orbiculatus-2.jpg",
+      "speciesId": "4"
+    },
+    {
+      "id": "29",
+      "nombre": "Euonymus atropurpureus",
+      "localizacion": "Norteamérica",
+      "colorDeMiPlanta": "Púrpura",
+      "características": "Árbol pequeño con frutos y hojas vistosas en otoño",
+      "comentarios": "Aspecto otoñal y resiste muy bien en zonas frías.",
+      "imagen": "https://www.picturethisai.com/wiki-image/1080/154080908108890120.png",
+      "speciesId": "4"
+    },
+    {
+      "id": "30",
+      "nombre": "Salacia chinensis",
+      "localizacion": "Asia tropical",
+      "colorDeMiPlanta": "Amarillo verdoso.",
+      "características": "Trepadora perenne con flores discretas pero atractivas para polinizadores.",
+      "comentarios": "Se usa también en medicina tradicional.",
+      "imagen": "https://apps.lucidcentral.org/rainforest/images/entities/salacia_chinensis/1783037.jpg",
+      "speciesId": "4"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "India",
+      "caracteristicas": "Es una flor muy cerrada que le encanta el sol",
+      "id": "Wq6aHb0"
+    },
+    {
+      "nombre": "margar",
+      "color": "rosa",
+      "origen": "kdho",
+      "caracteristicas": "hodh",
+      "id": "H-Jekms"
+    },
+    {
+      "nombre": "klashd",
+      "color": "rojo",
+      "origen": "klncñfsd",
+      "caracteristicas": "kzxnvñznv",
+      "id": "tIf6d0F"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "lkhjxvpdsz",
+      "caracteristicas": "xvdb",
+      "id": "W9fSW3D"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "safaf",
+      "caracteristicas": "wfwfwf",
+      "id": "RtkI6Wu"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "lnan",
+      "caracteristicas": "kalñ",
+      "id": "XNaDyvL"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": ",sl",
+      "caracteristicas": "jlkbs",
+      "id": "iBJ_5uu"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "kbgkb",
+      "caracteristicas": "ljh",
+      "id": "2MqdLhF"
+    },
+    {
+      "nombre": "dfsdsfd",
+      "color": "sdfd",
+      "origen": "sdf",
+      "caracteristicas": "dfssf",
+      "id": "XkalGgQ"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "eKN_dCN"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "coRXZJz"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "2w01rBL"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "dymgjbL"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "FUfiyLP"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "bna6wLK"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "gbYUOfn"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "T9QxZVt"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "_ylV_l9"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rojo",
+      "origen": "dfsf",
+      "caracteristicas": "sdfsfd",
+      "id": "_0CzXcf"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "rosa",
+      "origen": "xxc",
+      "caracteristicas": "zxc",
+      "id": "iUAPZFY"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "<zx<x<c",
+      "caracteristicas": "xcz",
+      "id": "ad3fFye"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "<zx<x<c",
+      "caracteristicas": "xcz",
+      "id": "bSusH8J"
+    },
+    {
+      "nombre": "Margarita",
+      "color": "Rojo",
+      "origen": "<zx<x<c",
+      "caracteristicas": "xcz",
+      "id": "pceJEja"
+    },
+    {
+      "nombre": "margarita",
+      "color": "rosa",
+      "origen": "India",
+      "caracteristicas": "bonita flor",
+      "species": "1",
+      "id": "BnI7Fhq"
+    },
+    {
+      "nombre": "margarita",
+      "color": "rojo",
+      "origen": "EEUU",
+      "caracteristicas": "Flor muy bonita",
+      "species": "1",
+      "id": "e11Gs6d"
+    },
+    {
+      "nombre": "MARGARITA",
+      "colorDeMiPlanta": "rosa",
+      "localizacion": "EEUU",
+      "características": "Flor preciosa",
+      "comentarios": "",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpP2KA_Ie7GA8wwWNKg7dG5SXcP73n626VGg&s",
+      "id": "fge-zer"
+    },
+    {
+      "nombre": "Rosa",
+      "colorDeMiPlanta": "Rojo",
+      "localizacion": "España",
+      "características": "Muy bonita y muy roja",
+      "comentarios": "",
+      "imagen": "https://images.unsplash.com/photo-1619532839116-af15d051cd3e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cm9zYSUyMHJvamF8ZW58MHx8MHx8fDA%3D",
+      "speciesId": "1",
+      "id": "Z4Fa5w-"
+    }
+  ]
 }
