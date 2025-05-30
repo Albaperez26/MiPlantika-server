@@ -5,7 +5,7 @@
       "nombre": "ASTERACEAE-COMPOSITAE",
       "imagen": "https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-pink-daisies-with-dark-background-wallpaper-image_2902700.jpg",
       "numeroDeEspecies": 25000,
-      "descripcion":"La familia Asteraceae Compositae es una de las más grandes y diversas del mundo vegetal.  Es una familia cosmopolita, con gran diversidad ecológica y adaptativa. Muchas de sus especies tienen importancia alimenticia, medicinal y ornamental, como el girasol, la manzanilla y la lechuga. Su éxito se debe a su versatilidad morfológica y ecológica.",
+      "descripcion": "La familia Asteraceae Compositae es una de las más grandes y diversas del mundo vegetal.  Es una familia cosmopolita, con gran diversidad ecológica y adaptativa. Muchas de sus especies tienen importancia alimenticia, medicinal y ornamental, como el girasol, la manzanilla y la lechuga. Su éxito se debe a su versatilidad morfológica y ecológica.",
       "generos": 1700
     },
     {
@@ -13,7 +13,7 @@
       "nombre": "CAPRIFOLIACEAE",
       "imagen": "https://www.shutterstock.com/image-photo/japanese-honeysuckle-lonicera-japonica-flowers-600nw-2301756877.jpg",
       "numeroDeEspecies": 400,
-      "descripcion":"La familia Caprifoliaceae es un grupo de plantas mayormente trepadoras, propias de regiones templadas del hemisferio norte. Es una familia de plantas mayormente arbustivas y trepadoras, con flores vistosas y fragantes, frutos carnosos y distribución preferente en climas templados. Es valorada especialmente en jardinería y paisajismo.",
+      "descripcion": "La familia Caprifoliaceae es un grupo de plantas mayormente trepadoras, propias de regiones templadas del hemisferio norte. Es una familia de plantas mayormente arbustivas y trepadoras, con flores vistosas y fragantes, frutos carnosos y distribución preferente en climas templados. Es valorada especialmente en jardinería y paisajismo.",
       "generos": 10
     },
     {
@@ -21,7 +21,7 @@
       "nombre": "OLEACEAE",
       "imagen": "https://thumbs.dreamstime.com/b/rama-del-olivo-con-las-hojas-y-frutas-fondo-101808155.jpg",
       "numeroDeEspecies": 600,
-      "descripcion":"La familia Oleaceae agrupa árboles y arbustos con flores pequeñas pero a menudo aromáticas, hojas opuestas y frutos variados. Tiene gran valor en agricultura (como el olivo), en jardinería (jazmines) y en silvicultura (fresnos).",
+      "descripcion": "La familia Oleaceae agrupa árboles y arbustos con flores pequeñas pero a menudo aromáticas, hojas opuestas y frutos variados. Tiene gran valor en agricultura (como el olivo), en jardinería (jazmines) y en silvicultura (fresnos).",
       "generos": 30
     },
     {
@@ -29,9 +29,41 @@
       "nombre": "CELASTRACEAE",
       "imagen": "https://www.shutterstock.com/image-photo/red-leafs-euonymus-alatus-garden-600nw-2341571935.jpg",
       "numeroDeEspecies": 1350,
-      "descripcion":"La familia Celastraceae agrupa plantas leñosas con flores pequeñas, frutos a menudo llamativos y una amplia distribución tropical. Tiene interés ecológico, medicinal y ornamental, aunque algunas especies son tóxicas.",
+      "descripcion": "La familia Celastraceae agrupa plantas leñosas con flores pequeñas, frutos a menudo llamativos y una amplia distribución tropical. Tiene interés ecológico, medicinal y ornamental, aunque algunas especies son tóxicas.",
       "generos": 100
-    }
+    },
+    {
+    "id": "5",
+    "nombre": "LAMIACEAE",
+    "imagen": "https://img.freepik.com/fotos-premium/primer-plano-planta_1048944-18256983.jpg",
+    "numeroDeEspecies": 7200,
+    "descripcion": "La familia Lamiaceae incluye hierbas aromáticas como lavanda, menta, orégano y albahaca. Posee gran importancia culinaria, medicinal y ornamental.",
+    "generos": 236
+  },
+  {
+    "id": "6",
+    "nombre": "FABACEAE",
+    "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/167983252/original.jpeg",
+    "numeroDeEspecies": 19400,
+    "descripcion": "Una de las familias más grandes, incluye legumbres como frijol, soja, lenteja y árboles ornamentales como el jacarandá.",
+    "generos": 730
+  },
+  {
+    "id": "7",
+    "nombre": "BROMELIACEAE",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLodTcTg0brSO3nH07fl2ivuOB51D2VCpAA&s",
+    "numeroDeEspecies": 3000,
+    "descripcion": "Familia tropical que incluye epífitas y terrestres. Muchas bromelias son ornamentales, y la piña es su representante más conocido.",
+    "generos": 75
+  },
+  {
+    "id": "8",
+    "nombre": "CACTACEAE",
+    "imagen": "https://i.ytimg.com/vi/JFeC3n88d4g/sddefault.jpg",
+    "numeroDeEspecies": 1750,
+    "descripcion": "Plantas suculentas adaptadas a climas áridos, con formas llamativas y flores espectaculares. Muchas se cultivan como ornamentales.",
+    "generos": 127
+  }
   ],
   "plants": [
     {
@@ -45,14 +77,14 @@
       "id": "11"
     },
     {
-      "id": "12",
       "nombre": "Bellis perennis",
-      "localizacion": "Europa y Asia occidental",
       "colorDeMiPlanta": "Rosa con centro amarillo",
+      "localizacion": "Europa y Asia occidental",
       "características": "Pequeña planta perenne, común en prados",
       "comentarios": "Ideal para césped o macetas. Muy resistente.",
       "imagen": "https://www.totenu.com/wp-content/uploads/bellis-perennis-totenu-1-1080x675.jpg",
-      "speciesId": "1"
+      "speciesId": "1",
+      "id": "12"
     },
     {
       "id": "13",
@@ -234,201 +266,213 @@
       "imagen": "https://apps.lucidcentral.org/rainforest/images/entities/salacia_chinensis/1783037.jpg",
       "speciesId": "4"
     },
+
+
     {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "India",
-      "caracteristicas": "Es una flor muy cerrada que le encanta el sol",
-      "id": "Wq6aHb0"
-    },
-    {
-      "nombre": "margar",
-      "color": "rosa",
-      "origen": "kdho",
-      "caracteristicas": "hodh",
-      "id": "H-Jekms"
-    },
-    {
-      "nombre": "klashd",
-      "color": "rojo",
-      "origen": "klncñfsd",
-      "caracteristicas": "kzxnvñznv",
-      "id": "tIf6d0F"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "lkhjxvpdsz",
-      "caracteristicas": "xvdb",
-      "id": "W9fSW3D"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "safaf",
-      "caracteristicas": "wfwfwf",
-      "id": "RtkI6Wu"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "lnan",
-      "caracteristicas": "kalñ",
-      "id": "XNaDyvL"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": ",sl",
-      "caracteristicas": "jlkbs",
-      "id": "iBJ_5uu"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "kbgkb",
-      "caracteristicas": "ljh",
-      "id": "2MqdLhF"
-    },
-    {
-      "nombre": "dfsdsfd",
-      "color": "sdfd",
-      "origen": "sdf",
-      "caracteristicas": "dfssf",
-      "id": "XkalGgQ"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "eKN_dCN"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "coRXZJz"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "2w01rBL"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "dymgjbL"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "FUfiyLP"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "bna6wLK"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "gbYUOfn"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "T9QxZVt"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "_ylV_l9"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rojo",
-      "origen": "dfsf",
-      "caracteristicas": "sdfsfd",
-      "id": "_0CzXcf"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "rosa",
-      "origen": "xxc",
-      "caracteristicas": "zxc",
-      "id": "iUAPZFY"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "<zx<x<c",
-      "caracteristicas": "xcz",
-      "id": "ad3fFye"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "<zx<x<c",
-      "caracteristicas": "xcz",
-      "id": "bSusH8J"
-    },
-    {
-      "nombre": "Margarita",
-      "color": "Rojo",
-      "origen": "<zx<x<c",
-      "caracteristicas": "xcz",
-      "id": "pceJEja"
-    },
-    {
-      "nombre": "margarita",
-      "color": "rosa",
-      "origen": "India",
-      "caracteristicas": "bonita flor",
-      "species": "1",
-      "id": "BnI7Fhq"
-    },
-    {
-      "nombre": "margarita",
-      "color": "rojo",
-      "origen": "EEUU",
-      "caracteristicas": "Flor muy bonita",
-      "species": "1",
-      "id": "e11Gs6d"
-    },
-    {
-      "nombre": "MARGARITA",
-      "colorDeMiPlanta": "rosa",
-      "localizacion": "EEUU",
-      "características": "Flor preciosa",
-      "comentarios": "",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpP2KA_Ie7GA8wwWNKg7dG5SXcP73n626VGg&s",
-      "id": "fge-zer"
-    },
-    {
-      "nombre": "Rosa",
-      "colorDeMiPlanta": "Rojo",
-      "localizacion": "España",
-      "características": "Muy bonita y muy roja",
-      "comentarios": "",
-      "imagen": "https://images.unsplash.com/photo-1619532839116-af15d051cd3e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cm9zYSUyMHJvamF8ZW58MHx8MHx8fDA%3D",
-      "speciesId": "1",
-      "id": "Z4Fa5w-"
-    }
+    "id": "31",
+    "nombre": "Lavandula angustifolia",
+    "localizacion": "Europa mediterránea",
+    "colorDeMiPlanta": "Violeta",
+    "características": "Arbusto aromático, flores en espigas, muy utilizado en aceites esenciales.",
+    "comentarios": "Ideal para climas secos y suelos bien drenados.",
+    "imagen": "https://cdn.prod.website-files.com/623de0e9fe0f9c6ed17335ad/65d4e153f949648043a89f92_lavandula_sweet_romance_apj18_7.jpg",
+    "speciesId": "5"
+  },
+  {
+    "id": "32",
+    "nombre": "Mentha spicata",
+    "localizacion": "Europa y Asia",
+    "colorDeMiPlanta": "Verde con flores lilas",
+    "características": "Hierba perenne muy aromática. Usada en gastronomía y medicina.",
+    "comentarios": "Requiere humedad constante y algo de sombra.",
+    "imagen": "https://seedfella.com/cdn/shop/files/Herb-MintCommon_300x_2x_c9468f9f-dd67-4782-9619-e6f86e50869d.jpg?v=1738159836",
+    "speciesId": "5"
+  },
+  {
+    "id": "33",
+    "nombre": "Ocimum basilicum",
+    "localizacion": "Asia tropical",
+    "colorDeMiPlanta": "Verde brillante",
+    "características": "Planta anual, hojas aromáticas. Muy usada en cocina italiana.",
+    "comentarios": "Requiere calor y riego regular.",
+    "imagen": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+    "speciesId": "5"
+  },
+  {
+    "id": "34",
+    "nombre": "Salvia officinalis",
+    "localizacion": "Región mediterránea",
+    "colorDeMiPlanta": "Gris verdoso",
+    "características": "Arbusto aromático, flores vistosas, usos medicinales.",
+    "comentarios": "Planta rústica y resistente.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Salvia_officinalis_01_by_Line1.JPG/250px-Salvia_officinalis_01_by_Line1.JPG",
+    "speciesId": "5"
+  },
+  {
+    "id": "35",
+    "nombre": "Thymus vulgaris",
+    "localizacion": "Europa meridional",
+    "colorDeMiPlanta": "Verde oscuro con flores rosadas",
+    "características": "Planta rastrera con hojas aromáticas. Usos culinarios y medicinales.",
+    "comentarios": "Ideal para rocallas y zonas secas.",
+    "imagen": "https://www.navarra.es/mapacultivos/fotos/sp_thymus_vulgaris/image001b.jpg",
+    "speciesId": "5"
+  },
+   {
+    "id": "36",
+    "nombre": "Glycine max",
+    "localizacion": "Asia oriental",
+    "colorDeMiPlanta": "Verde con flores lilas",
+    "características": "Planta herbácea anual, productora de soja.",
+    "comentarios": "Cultivo fundamental en la alimentación mundial.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_706621-MLM41990111333_052020-O.webp",
+    "speciesId": "6"
+  },
+  {
+    "id": "37",
+    "nombre": "Pisum sativum",
+    "localizacion": "Europa y Asia",
+    "colorDeMiPlanta": "Verde",
+    "características": "Trepadora anual, fruto en vaina. Comúnmente conocida como arveja o guisante.",
+    "comentarios": "Muy cultivada en huertos caseros.",
+    "imagen": "https://www.plantasyhongos.es/herbarium/p/Pisum_sativum_13.jpg",
+    "speciesId": "6"
+  },
+  {
+    "id": "38",
+    "nombre": "Lupinus polyphyllus",
+    "localizacion": "América del Norte",
+    "colorDeMiPlanta": "Variado: azul, rosa, blanco",
+    "características": "Planta ornamental con largas espigas florales.",
+    "comentarios": "Aporta nitrógeno al suelo, ideal para rotación de cultivos.",
+    "imagen": "https://m.media-amazon.com/images/I/81bYYxg0EsL._AC_UF1000,1000_QL80_.jpg",
+    "speciesId": "6"
+  },
+  {
+    "id": "39",
+    "nombre": "Robinia pseudoacacia",
+    "localizacion": "América del Norte",
+    "colorDeMiPlanta": "Blanco",
+    "características": "Árbol caducifolio con flores fragantes, usada en reforestación.",
+    "comentarios": "Buena para suelos pobres. Sus flores atraen abejas.",
+    "imagen": "https://media.v2.siweb.es/uploaded_thumb_medium/57c02415f8bc02f8ee86547d078819af/robiniapseudoacaciafalsaacacia_1.jpg",
+    "speciesId": "6"
+  },
+  {
+    "id": "40",
+    "nombre": "Cercis siliquastrum",
+    "localizacion": "Mediterráneo oriental",
+    "colorDeMiPlanta": "Rosa púrpura",
+    "características": "Árbol ornamental, conocido como Árbol del Amor.",
+    "comentarios": "Florece antes de brotar las hojas.",
+    "imagen": "https://lh6.googleusercontent.com/proxy/E2tUcVwVWY4mngG8GB0XpZTLMordTwBgT601H0jgpbHblnDXu-SZEBj9VxHy1Ogn6yLctFoxLhBznFlrW4iMVPJk8VtPhIIyTWAv4YLykJyOmzD9R3-sgstOCiYj",
+    "speciesId": "6"
+  },
+  {
+    "id": "41",
+    "nombre": "Ananas comosus",
+    "localizacion": "Sudamérica tropical",
+    "colorDeMiPlanta": "Verde con fruto amarillo",
+    "características": "Planta tropical perenne, fruto comestible (piña).",
+    "comentarios": "Muy cultivada en regiones tropicales y subtropicales.",
+    "imagen": "https://naturaleza.animalesbiologia.com/wp-content/uploads/2020/04/pina.jpg",
+    "speciesId": "7"
+  },
+  {
+    "id": "42",
+    "nombre": "Tillandsia usneoides",
+    "localizacion": "América",
+    "colorDeMiPlanta": "Gris plateado",
+    "características": "Epífita sin raíces en el suelo, absorbe humedad del aire.",
+    "comentarios": "También conocida como “barba de viejo”.",
+    "imagen": "https://www.picturethisai.com/wiki-image/1080/352290019540959232.jpeg",
+    "speciesId": "7"
+  },
+  {
+    "id": "43",
+    "nombre": "Guzmania lingulata",
+    "localizacion": "América Central y del Sur",
+    "colorDeMiPlanta": "Rojo o amarillo brillante",
+    "características": "Planta tropical con flores llamativas.",
+    "comentarios": "Común como planta de interior.",
+    "imagen": "https://elnougarden.com/cdn/shop/products/Guzmanialingulata1.jpg?v=1633798040",
+    "speciesId": "7"
+  },
+  {
+    "id": "44",
+    "nombre": "Vriesea splendens",
+    "localizacion": "Sudamérica",
+    "colorDeMiPlanta": "Rojo y verde",
+    "características": "Bromelia ornamental de espiga roja intensa.",
+    "comentarios": "Requiere alta humedad ambiental.",
+    "imagen": "https://www.hogarmania.com/archivos/201608/vriesea-cuidados-de-esta-elegante-bromelia-1280x720x80xX.jpg",
+    "speciesId": "7"
+  },
+  {
+    "id": "45",
+    "nombre": "Aechmea fasciata",
+    "localizacion": "Brasil",
+    "colorDeMiPlanta": "Rosado con gris",
+    "características": "Rocalla ornamental, hojas con manchas plateadas.",
+    "comentarios": "Floración duradera, perfecta para interiores luminosos.",
+    "imagen": "https://verdecora.es/blog/wp-content/uploads/2024/06/flor-aechmea-fasciata.jpg",
+    "speciesId": "7"
+  },
+  {
+    "id": "46",
+    "nombre": "Opuntia ficus-indica",
+    "localizacion": "América tropical",
+    "colorDeMiPlanta": "Verde con frutos rojos",
+    "características": "Nopal o chumbera, fruto comestible (tuna).",
+    "comentarios": "Muy resistente a la sequía.",
+    "imagen": "https://revistatodo.com/wp-content/uploads/2019/01/36.Opuntia-ficus-indica-1024x768.jpg",
+    "speciesId": "8"
+  },
+  {
+    "id": "47",
+    "nombre": "Echinopsis pachanoi",
+    "localizacion": "Andes peruanos",
+    "colorDeMiPlanta": "Verde con flores blancas",
+    "características": "Cactus columnar conocido como san pedro.",
+    "comentarios": "Usado tradicionalmente en medicina andina.",
+    "imagen": "https://elnougarden.com/cdn/shop/products/CactusdesanPedro-Echinopsispachanoi1.jpg?v=1632559535",
+    "speciesId": "8"
+  },
+  {
+    "id": "48",
+    "nombre": "Mammillaria elongata",
+    "localizacion": "México",
+    "colorDeMiPlanta": "Verde con espinas doradas",
+    "características": "Pequeño cactus en forma de racimos.",
+    "comentarios": "Muy popular en colecciones.",
+    "imagen": "https://plantasflores.com/cactaceas-suculento/wp-content/uploads/sites/7/2022/01/Mammillaria-elongata-1.webp",
+    "speciesId": "8"
+  },
+  {
+    "id": "49",
+    "nombre": "Carnegiea gigantea",
+    "localizacion": "Desierto de Sonora",
+    "colorDeMiPlanta": "Verde",
+    "características": "Saguaro, cactus emblemático de EE.UU., puede alcanzar gran altura.",
+    "comentarios": "Símbolo del paisaje desértico.",
+    "imagen": "https://i.etsystatic.com/27743352/r/il/8425ce/3603269355/il_fullxfull.3603269355_2qpv.jpg",
+    "speciesId": "8"
+  },
+  {
+    "id": "50",
+    "nombre": "Gymnocalycium mihanovichii",
+    "localizacion": "Sudamérica",
+    "colorDeMiPlanta": "Verde oscuro con injertos rojos o amarillos",
+    "características": "Pequeño cactus muy ornamental.",
+    "comentarios": "Frecuente en jardinería interior.",
+    "imagen": "https://img.freepik.com/fotos-premium/gymnocalycium-mihanovichii-cactus-rojo-cerca_200722-1179.jpg?w=360",
+    "speciesId": "8"
+  }
+    
+    
+    
+    
+    
+   
   ]
 }
